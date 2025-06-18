@@ -3,13 +3,13 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 // Contact details
-global.ownernomer = process.env.OWNER_NOMER || "51960285930";
+global.ownernomer = process.env.OWNER_NOMER || "51941847465";
 global.ytname = process.env.YT_NAME || "YT: @Syssolutions";
 global.socialm = process.env.SOCIAL_M || "GitHub: SysSolutions";
 global.location = process.env.LOCATION || "Peru, Lima";
 
 // Creator details
-global.ownernumber = process.env.OWNER_NUMBER || '51960285930';
+global.ownernumber = process.env.OWNER_NUMBER || '51941847465';
 global.ownername = process.env.OWNER_NAME || 'SysSolutions';
 global.botname = process.env.BOT_NAME || 'SysSolutions';
 
@@ -35,7 +35,7 @@ global.themeemoji = process.env.THEME_EMOJI || '👨‍💻';
 
 // Sticker details
 global.packname = process.env.PACKNAME || 'Sticker By SysSolutions';
-global.author = process.env.AUTHOR || 'ELITEPRO\n\nContact: +51960285930';
+global.author = process.env.AUTHOR || 'ELITEPRO\n\nContact: +51941847465';
 // Default settings 2
 global.typemenu = process.env.TYPE_MENU || 'v2';
 global.wm = process.env.WM || "Youtube @SysSolutions";
